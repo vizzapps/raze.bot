@@ -57,3 +57,6 @@ package-lock.json
 yarn.lock
 pnpm-lock.yaml
 shrinkwrap.yaml
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
